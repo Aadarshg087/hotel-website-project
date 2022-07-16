@@ -36,7 +36,7 @@
 .main{
   /* border: 2px solid black; */
   display: block;
-  background: url('/img/Background\ Image\ 1\ no\ text.png') no-repeat center center/cover;
+  background: url('/img/Background\ Image\ 1\ blur.png') no-repeat center center/cover;
   overflow: auto;
   height: 90vh;
 }
@@ -55,9 +55,9 @@
 }
 .main a{
   /* border: 2px solid black; */
-  background-color: #3c5fca;
-  border-radius: 10px;
-  padding: 5px 40px;
+  background-color: #3366ff;
+  border-radius: 5px;
+  padding: 10px 50px;
   text-align: center;
   position: absolute;
   top: 510px;
@@ -67,7 +67,7 @@
   text-decoration: none;
 }
 .main a:hover{
-  background-color: #3757b6;
+  background-color: #3c5fca;
   cursor: pointer;
 }
 /* .main img{
