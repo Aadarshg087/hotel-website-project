@@ -40,7 +40,7 @@
 .main{
   /* border: 2px solid black; */
   display: block;
-  background: url('/img/Background\ Image\ 1\ blur.png') no-repeat center center/cover;
+  background: url('./img/Background\ Image\ 1\ blur.png') no-repeat center center/cover;
   overflow: auto;
   height: 90vh;
 }
@@ -82,7 +82,7 @@
 }
 .container-img{
   display: inline-block;
-  background: url('/img/Background\ Image\ 2.jpg') no-repeat center center/cover;
+  background: url('./img/Background\ Image\ 2.jpg') no-repeat center center/cover;
   overflow: auto;
   height: 400px;
   width: 50%;
