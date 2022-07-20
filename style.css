@@ -47,7 +47,8 @@
 .main h1{
   color: white;
   text-align: center;
-  padding-top: 230px;
+  padding-top: 195px;
+  margin-bottom: 10px;
   font-size: 60px;
 }
 .main p{
